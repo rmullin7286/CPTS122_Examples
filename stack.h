@@ -1,3 +1,8 @@
+//this is an example file for Stacks in C
+//stacks are similar data structures to linked lists.
+//However, with stacks only the top data value can be accessed by the user, and data is inserted and removed from the top only.
+//This is useful for things like function call stacks or other Last In First Out algorithms.
+
 #include <stdlib.h>
 
 //an enum for boolean statements. FALSE = 0, TRUE = 1
