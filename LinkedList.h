@@ -1,3 +1,7 @@
+//this is an example file for a linked list.
+//linked lists are resizable lists that contain nodes that are linked together using pointers
+//Linked Lists are different from arrays in that they can be resized at runtime indefinitely
+//However, linked lists must be traveresed in order, so they are slower typically than arrays.
 #include <stdlib.h>
 
 //a boolean enum for true and false statements
