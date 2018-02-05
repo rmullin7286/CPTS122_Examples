@@ -16,7 +16,7 @@ typedef struct node {
 //I like to use wrapper structs to avoid double pointer notation.
 typedef struct LinkedList {
 	Node *pHead;
-}SinglelyLinkedList;
+}LinkedList;
 
 //returns TRUE if empty, FALSE if not
 Bool isEmpty(LinkedList *list);
